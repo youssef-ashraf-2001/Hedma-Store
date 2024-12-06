@@ -1,0 +1,23 @@
+.navbar-container{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+.foot{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.carousel-container{
+    height: 100px;
+    overflow: hidden;
+}
+.carousel-cell{
+    height: 33.33%;
+}
